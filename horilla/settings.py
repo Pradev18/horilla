@@ -67,11 +67,8 @@ INSTALLED_APPS = [
     "attendance",
     "payroll",
     "widget_tweaks",
-    # "django_apscheduler",
 ]
-# APSCHEDULER_DATETIME_FORMAT = "N j, Y, f:s a"
 
-# APSCHEDULER_RUN_NOW_TIMEOUT = 25  # Seconds
 
 
 MIDDLEWARE = [
